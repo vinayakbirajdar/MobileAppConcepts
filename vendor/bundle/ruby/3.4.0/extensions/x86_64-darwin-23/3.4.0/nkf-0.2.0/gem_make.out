@@ -1,0 +1,18 @@
+current directory: /Users/vinayakbirajdar/Documents/MobileApp/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+/usr/local/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/vinayakbirajdar/Documents/MobileApp/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250316-15619-k63vmb sitelibdir\=./.gem.20250316-15619-k63vmb clean
+
+current directory: /Users/vinayakbirajdar/Documents/MobileApp/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250316-15619-k63vmb sitelibdir\=./.gem.20250316-15619-k63vmb
+compiling nkf.c
+linking shared-object nkf.bundle
+
+current directory: /Users/vinayakbirajdar/Documents/MobileApp/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250316-15619-k63vmb sitelibdir\=./.gem.20250316-15619-k63vmb install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20250316-15619-k63vmb
+
+current directory: /Users/vinayakbirajdar/Documents/MobileApp/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250316-15619-k63vmb sitelibdir\=./.gem.20250316-15619-k63vmb clean
